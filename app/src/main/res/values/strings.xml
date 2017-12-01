@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="title_activity_tab_host">TabHostActivity</string>
+    <string name="home">首页</string>
+    <string name="category">分类</string>
+    <string name="discover">发现</string>
+    <string name="mine">我</string>
+</resources>
